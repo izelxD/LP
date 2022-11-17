@@ -97,4 +97,4 @@ class MergeSort
 		printArray(arr);
 	}
 }
-/* This code is contributed by Rajat Mishra */
+/* Time Complexity: O(n*log n) Space Complexity: n */

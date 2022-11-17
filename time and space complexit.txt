@@ -1,0 +1,24 @@
+using recursion-->
+           Time Complexity = T(n)=T(n-1) + T(n-2)
+           Space Complexity = O(n)
+using DP-->
+           Time Complexity =O(n)
+           Space Complexity = O(1)
+Space optimization of DP-->
+           Time Complexity =O(n)
+           Space Complexity = O(1)
+using the power of matrix method-->
+           Time Complexity =O(n)
+           Space Complexity = O(1)
+optimized matrix method-->
+            Time Complexity =O(log n)
+            Space Complexity = O(log n)
+recursicve method in O(log n) time -->
+            Time Complexity =O(log n)
+            Space Complexity = O(n)
+using direct formula-->
+            Time Complexity =O(log n)
+            Space Complexity = O(1)
+DP using Memorization-->
+            Time Complexity =O(n)
+            Space Complexity = O(1)

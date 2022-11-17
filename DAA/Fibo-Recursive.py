@@ -23,4 +23,7 @@ else:
 
 print("Steps reqired using Counter ", COUNT)
 
+
+#The time complexity of the above code is T(N)
+# The space complexity of the above code is O(N).
          

@@ -26,5 +26,7 @@ else:
         
 
 print("Steps required using Counter ", COUNT)
-
+#Time and Space Complexity of Space Optimized Method
+#The time complexity of the Fibonacci series is T(N) i.e, linear. We have to find the sum of twoterms and it is repeated n times depending on the value of n.
+#The space complexity of the Fibonacci series using dynamic programming is O(1).
      

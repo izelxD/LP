@@ -303,7 +303,5 @@ class knapsack {
 	}
 }
 
-//The main time taking step is the sorting of all items in decreasing order of their value / weight ratio.
-//If the items are already arranged in the required order, then while loop takes O(n) time.
-//The average time complexity of Quick Sort is O(nlogn).
-//Therefore, total time taken including the sort is O(nlogn).
+//the overall time complexity is O(n log n) and space complexity is also O(n)
+

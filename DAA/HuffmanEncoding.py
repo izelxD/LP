@@ -61,4 +61,4 @@ for (char, frequency) in freq:
     
     
 #time complexity of Huffman Coding becomes O(nlogn)
-#space complexity O(1)
+#space complexity O(n)
